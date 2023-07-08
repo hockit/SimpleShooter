@@ -1,1 +1,1 @@
-# SurvivalShooter
+# SimpleShooter
